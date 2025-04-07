@@ -21,7 +21,7 @@ pip install pysam pandas
 ## Usage
 
 ```bash
-python extract_five_prime_counts.py <input_bam_file> <output_tsv_file>
+python 5end_pileup.py <input_bam_file> <output_tsv_file>
 ```
 
 ### Arguments
@@ -32,7 +32,7 @@ python extract_five_prime_counts.py <input_bam_file> <output_tsv_file>
 ### Example
 
 ```bash
-python extract_five_prime_counts.py sample.bam sample_5prime_counts.tsv
+python 5end_pileup.py sample.bam sample_5prime_counts.tsv
 ```
 
 ## Output Format
