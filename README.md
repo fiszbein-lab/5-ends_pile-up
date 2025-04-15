@@ -48,3 +48,6 @@ The output is a tab-separated (TSV) file with columns:
 ## Author
 
 [GyeungYun Kim]
+
+## Cite
+If you use this script in your research, please cite: Kim et al., Mol Cell, 2025.
